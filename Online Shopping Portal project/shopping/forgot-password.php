@@ -130,7 +130,7 @@ return true;
 			<div class="row">
 				<!-- Sign-in -->			
 <div class="col-md-6 col-sm-6 sign-in">
-	<h4 class="">Forgot password</h4>
+	<h4 class="">Forgot password!</h4>
 	<form class="register-form outer-top-xs" name="register" method="post">
 	<span style="color:red;" >
 <?php
