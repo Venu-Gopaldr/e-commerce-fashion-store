@@ -1,4 +1,21 @@
-How to run the Online Shoppinh Portal using PHP and MySQL
+
+# E-Commerce fashion store
+
+project is made using PHP and MySQL.<br>
+it resembles like a modern days shopping portal.<br>
+
+
+
+## Authors
+
+- Venugopal D R , Nishchay , Shashikumar.
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
 1. Download the  zip file
 
 2. Extract the file and copy shopping folder
@@ -23,3 +40,8 @@ Password : Test@123
 For Admin :
 User Name : admin
 Password : Test@123
+```
+
+
+## 🚀 About Me
+I'm a full stack developer...
